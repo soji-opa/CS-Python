@@ -47,8 +47,3 @@ for item in data:
        store.append(item)
 print(store)
 
-# for m in data:
-#     for j in data:
-#         if m == j:
-#             store.append(m)
-# print(store)
